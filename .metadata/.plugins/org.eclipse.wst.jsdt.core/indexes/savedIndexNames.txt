@@ -1,0 +1,9 @@
+INDEX VERSION 1.4+C:\Users\shoki\OneDrive\ドキュメント\デスクトップ\dev\Java\JavaObjBasic\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+2207364396.index
+3564297994.index
+1133836511.index
+3145043917.index
+4200039982.index
+3585127741.index
+1547963929.index
+1608616329.index
